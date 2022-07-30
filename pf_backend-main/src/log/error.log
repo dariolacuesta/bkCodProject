@@ -1,0 +1,644 @@
+2021-08-02T14:12:19.742Z [31merror[39m: 	MensajePersistence.normalizedDataPersistence is not a function
+2021-08-02T14:12:19.743Z [31merror[39m: 	res.send is not a function
+2021-08-02T14:12:23.885Z [31merror[39m: 	Operation `productomodels.find()` buffering timed out after 10000ms
+2021-08-02T14:27:00.621Z [31merror[39m: 	Cannot read property '0' of undefined
+2021-08-02T14:30:28.943Z [31merror[39m: 	Operation `productomodels.find()` buffering timed out after 10000ms
+2021-08-02T14:37:09.484Z [31merror[39m: 	MensajePersistence.normalizedDataPersistence is not a function
+2021-08-02T14:37:09.484Z [31merror[39m: 	res.send is not a function
+2021-08-02T14:37:14.674Z [31merror[39m: 	Operation `productomodels.find()` buffering timed out after 10000ms
+2021-08-02T14:37:41.819Z [31merror[39m: 	Operation `productomodels.find()` buffering timed out after 10000ms
+2021-08-02T14:38:05.325Z [31merror[39m: 	Cannot read property '0' of undefined
+2021-08-02T14:54:28.732Z [31merror[39m: 	res.send is not a function
+2021-08-02T14:54:53.391Z [31merror[39m: 	res.send is not a function
+2021-08-02T14:54:53.829Z [31merror[39m: 	res.send is not a function
+2021-08-02T14:54:54.000Z [31merror[39m: 	res.send is not a function
+2021-08-02T14:54:54.174Z [31merror[39m: 	res.send is not a function
+2021-08-02T14:54:54.305Z [31merror[39m: 	res.send is not a function
+2021-08-02T14:57:10.537Z [31merror[39m: 	Cannot read property '0' of undefined
+2021-08-02T14:57:13.309Z [31merror[39m: 	MensajePersistence.normalizedDataPersistence is not a function
+2021-08-02T14:57:13.309Z [31merror[39m: 	res.send is not a function
+2021-08-02T14:58:49.051Z [31merror[39m: 	data is not defined
+2021-08-02T15:00:24.764Z [31merror[39m: 	MensajePersistence.normalizedDataPersistence is not a function
+2021-08-02T15:00:24.764Z [31merror[39m: 	res.send is not a function
+2021-08-02T15:01:52.223Z [31merror[39m: 	Cannot read property '0' of undefined
+2021-08-02T15:04:08.239Z [31merror[39m: 	data is not defined
+2021-08-02T15:05:03.894Z [31merror[39m: 	Cannot read property '0' of undefined
+2021-08-02T15:06:56.005Z [31merror[39m: 	Cannot read property '0' of undefined
+2021-08-02T15:06:58.316Z [31merror[39m: 	MensajePersistence.normalizedDataPersistence is not a function
+2021-08-02T15:06:58.317Z [31merror[39m: 	res.send is not a function
+2021-08-02T15:07:23.673Z [31merror[39m: 	MensajePersistence.normalizedDataPersistence is not a function
+2021-08-02T15:07:23.674Z [31merror[39m: 	res.send is not a function
+2021-08-02T15:07:24.421Z [31merror[39m: 	MensajePersistence.normalizedDataPersistence is not a function
+2021-08-02T15:07:24.422Z [31merror[39m: 	res.send is not a function
+2021-08-02T15:07:24.607Z [31merror[39m: 	MensajePersistence.normalizedDataPersistence is not a function
+2021-08-02T15:07:24.608Z [31merror[39m: 	res.send is not a function
+2021-08-02T15:07:24.795Z [31merror[39m: 	MensajePersistence.normalizedDataPersistence is not a function
+2021-08-02T15:07:24.796Z [31merror[39m: 	res.send is not a function
+2021-08-02T15:07:24.965Z [31merror[39m: 	MensajePersistence.normalizedDataPersistence is not a function
+2021-08-02T15:07:24.965Z [31merror[39m: 	res.send is not a function
+2021-08-02T15:10:07.248Z [31merror[39m: 	Cannot read property '0' of undefined
+2021-08-02T15:10:37.101Z [31merror[39m: 	Cannot read property '0' of undefined
+2021-08-02T15:10:38.181Z [31merror[39m: 	Cannot read property '0' of undefined
+2021-08-02T15:10:39.397Z [31merror[39m: 	Cannot read property '0' of undefined
+2021-08-02T15:10:53.933Z [31merror[39m: 	Cannot read property '0' of undefined
+2021-08-02T15:10:55.508Z [31merror[39m: 	MensajePersistence.normalizedDataPersistence is not a function
+2021-08-02T15:10:55.508Z [31merror[39m: 	res.send is not a function
+2021-08-02T15:11:15.980Z [31merror[39m: 	MensajePersistence.normalizedDataPersistence is not a function
+2021-08-02T15:11:15.981Z [31merror[39m: 	res.send is not a function
+2021-08-02T15:11:16.149Z [31merror[39m: 	MensajePersistence.normalizedDataPersistence is not a function
+2021-08-02T15:11:16.149Z [31merror[39m: 	res.send is not a function
+2021-08-02T15:11:16.320Z [31merror[39m: 	MensajePersistence.normalizedDataPersistence is not a function
+2021-08-02T15:11:16.320Z [31merror[39m: 	res.send is not a function
+2021-08-02T15:11:16.495Z [31merror[39m: 	MensajePersistence.normalizedDataPersistence is not a function
+2021-08-02T15:11:16.496Z [31merror[39m: 	res.send is not a function
+2021-08-02T15:13:09.020Z [31merror[39m: 	MensajePersistence.normalizedDataPersistence is not a function
+2021-08-02T15:13:09.021Z [31merror[39m: 	res.send is not a function
+2021-08-02T15:14:45.475Z [31merror[39m: 	Cannot read property '0' of undefined
+2021-08-02T15:15:05.739Z [31merror[39m: 	MensajePersistence.addMsgPersistence is not a function
+2021-08-02T15:18:37.440Z [31merror[39m: 	MensajePersistence.addMsgPersistence is not a function
+2021-08-02T15:19:04.920Z [31merror[39m: 	MensajePersistence.addMsgPersistence is not a function
+2021-08-02T15:19:43.670Z [31merror[39m: 	MensajePersistence.addMsgPersistence is not a function
+2021-08-02T15:20:35.754Z [31merror[39m: 	MensajePersistence.addMsgPersistence is not a function
+2021-08-02T15:21:32.654Z [31merror[39m: 	res.send is not a function
+2021-08-02T15:21:38.395Z [31merror[39m: 	Cannot read property '0' of undefined
+2021-08-02T15:21:40.912Z [31merror[39m: 	res.send is not a function
+2021-08-02T15:22:01.144Z [31merror[39m: 	res.send is not a function
+2021-08-02T15:22:01.311Z [31merror[39m: 	res.send is not a function
+2021-08-02T15:22:35.418Z [31merror[39m: 	res.send is not a function
+2021-08-02T15:23:26.946Z [31merror[39m: 	res.send is not a function
+2021-08-02T15:24:22.231Z [31merror[39m: 	Cannot read property 'author' of undefined
+2021-08-02T15:24:22.232Z [31merror[39m: 	res.send is not a function
+2021-08-02T15:24:37.521Z [31merror[39m: 	Cannot read property 'author' of undefined
+2021-08-02T15:24:37.521Z [31merror[39m: 	res.send is not a function
+2021-08-02T15:25:14.305Z [31merror[39m: 	Cannot read property 'author' of undefined
+2021-08-02T15:25:14.305Z [31merror[39m: 	res.send is not a function
+2021-08-02T15:25:15.037Z [31merror[39m: 	Cannot read property 'author' of undefined
+2021-08-02T15:25:15.038Z [31merror[39m: 	res.send is not a function
+2021-08-02T15:25:39.493Z [31merror[39m: 	Cannot read property 'author' of undefined
+2021-08-02T15:25:39.493Z [31merror[39m: 	res.send is not a function
+2021-08-02T15:25:39.675Z [31merror[39m: 	Cannot read property 'author' of undefined
+2021-08-02T15:25:39.675Z [31merror[39m: 	res.send is not a function
+2021-08-02T15:25:39.860Z [31merror[39m: 	Cannot read property 'author' of undefined
+2021-08-02T15:25:39.860Z [31merror[39m: 	res.send is not a function
+2021-08-02T15:25:48.204Z [31merror[39m: 	Cannot read property 'author' of undefined
+2021-08-02T15:25:48.204Z [31merror[39m: 	res.send is not a function
+2021-08-02T15:25:48.215Z [31merror[39m: 	Cannot read property 'author' of undefined
+2021-08-02T15:25:48.215Z [31merror[39m: 	res.send is not a function
+2021-08-02T15:25:48.225Z [31merror[39m: 	Cannot read property 'author' of undefined
+2021-08-02T15:25:48.225Z [31merror[39m: 	res.send is not a function
+2021-08-02T15:25:48.238Z [31merror[39m: 	Cannot read property 'author' of undefined
+2021-08-02T15:25:48.238Z [31merror[39m: 	res.send is not a function
+2021-08-02T15:25:48.248Z [31merror[39m: 	Cannot read property 'author' of undefined
+2021-08-02T15:25:48.249Z [31merror[39m: 	res.send is not a function
+2021-08-02T15:26:09.383Z [31merror[39m: 	Cannot read property 'author' of undefined
+2021-08-02T15:26:09.383Z [31merror[39m: 	res.send is not a function
+2021-08-02T15:27:17.425Z [31merror[39m: 	util is not defined
+2021-08-02T15:27:17.426Z [31merror[39m: 	res.send is not a function
+2021-08-02T15:27:52.174Z [31merror[39m: 	util is not defined
+2021-08-02T15:27:52.174Z [31merror[39m: 	res.send is not a function
+2021-08-02T15:28:17.733Z [31merror[39m: 	Cannot read property 'author' of undefined
+2021-08-02T15:28:17.733Z [31merror[39m: 	res.send is not a function
+2021-08-02T15:28:39.953Z [31merror[39m: 	Cannot read property 'author' of undefined
+2021-08-02T15:28:39.953Z [31merror[39m: 	res.send is not a function
+2021-08-02T15:28:43.577Z [31merror[39m: 	util is not defined
+2021-08-02T15:28:43.578Z [31merror[39m: 	res.send is not a function
+2021-08-02T15:28:43.585Z [31merror[39m: 	util is not defined
+2021-08-02T15:28:43.586Z [31merror[39m: 	res.send is not a function
+2021-08-02T15:29:01.833Z [31merror[39m: 	util is not defined
+2021-08-02T15:29:01.833Z [31merror[39m: 	res.send is not a function
+2021-08-02T15:29:01.846Z [31merror[39m: 	util is not defined
+2021-08-02T15:29:01.847Z [31merror[39m: 	res.send is not a function
+2021-08-02T15:29:01.857Z [31merror[39m: 	util is not defined
+2021-08-02T15:29:01.857Z [31merror[39m: 	res.send is not a function
+2021-08-02T15:29:01.864Z [31merror[39m: 	util is not defined
+2021-08-02T15:29:01.864Z [31merror[39m: 	res.send is not a function
+2021-08-02T15:29:51.260Z [31merror[39m: 	util is not defined
+2021-08-02T15:29:51.260Z [31merror[39m: 	res.send is not a function
+2021-08-02T15:29:51.487Z [31merror[39m: 	util is not defined
+2021-08-02T15:29:51.488Z [31merror[39m: 	res.send is not a function
+2021-08-02T15:29:51.498Z [31merror[39m: 	util is not defined
+2021-08-02T15:29:51.498Z [31merror[39m: 	res.send is not a function
+2021-08-02T15:30:09.418Z [31merror[39m: 	Cannot read property 'author' of undefined
+2021-08-02T15:30:09.418Z [31merror[39m: 	res.send is not a function
+2021-08-02T15:30:25.613Z [31merror[39m: 	Cannot read property 'author' of undefined
+2021-08-02T15:30:25.613Z [31merror[39m: 	res.send is not a function
+2021-08-02T15:30:32.542Z [31merror[39m: 	Cannot read property 'author' of undefined
+2021-08-02T15:30:32.543Z [31merror[39m: 	res.send is not a function
+2021-08-02T15:30:33.197Z [31merror[39m: 	Cannot read property 'author' of undefined
+2021-08-02T15:30:33.199Z [31merror[39m: 	res.send is not a function
+2021-08-02T15:30:33.389Z [31merror[39m: 	Cannot read property 'author' of undefined
+2021-08-02T15:30:33.390Z [31merror[39m: 	res.send is not a function
+2021-08-02T15:30:33.573Z [31merror[39m: 	Cannot read property 'author' of undefined
+2021-08-02T15:30:33.574Z [31merror[39m: 	res.send is not a function
+2021-08-02T15:31:06.623Z [31merror[39m: 	util is not defined
+2021-08-02T15:31:06.623Z [31merror[39m: 	res.send is not a function
+2021-08-02T15:35:09.389Z [31merror[39m: 	util is not defined
+2021-08-02T15:35:09.389Z [31merror[39m: 	res.send is not a function
+2021-08-02T15:36:00.826Z [31merror[39m: 	util is not defined
+2021-08-02T15:36:00.826Z [31merror[39m: 	res.send is not a function
+2021-08-02T15:36:03.901Z [31merror[39m: 	util is not defined
+2021-08-02T15:36:03.902Z [31merror[39m: 	res.send is not a function
+2021-08-02T15:36:21.642Z [31merror[39m: 	util is not defined
+2021-08-02T15:36:21.642Z [31merror[39m: 	res.send is not a function
+2021-08-02T15:44:51.653Z [31merror[39m: 	Cannot read property '0' of undefined
+2021-08-02T15:44:54.601Z [31merror[39m: 	res.send is not a function
+2021-08-02T15:54:54.695Z [31merror[39m: 	Cannot read property '0' of undefined
+2021-08-02T15:54:57.960Z [31merror[39m: 	res.send is not a function
+2021-08-02T15:55:25.799Z [31merror[39m: 	res.send is not a function
+2021-08-02T15:55:47.355Z [31merror[39m: 	res.send is not a function
+2021-08-02T15:55:48.010Z [31merror[39m: 	res.send is not a function
+2021-08-02T15:56:02.344Z [31merror[39m: 	res.send is not a function
+2021-08-02T15:57:00.588Z [31merror[39m: 	res.send is not a function
+2021-08-02T15:57:41.449Z [31merror[39m: 	res.send is not a function
+2021-08-02T15:58:16.333Z [31merror[39m: 	res.send is not a function
+2021-08-02T15:58:53.540Z [31merror[39m: 	res.send is not a function
+2021-08-02T15:59:08.422Z [31merror[39m: 	res.send is not a function
+2021-08-02T16:00:08.622Z [31merror[39m: 	res.send is not a function
+2021-08-02T16:02:21.754Z [31merror[39m: 	res.send is not a function
+2021-08-02T16:02:27.159Z [31merror[39m: 	res.send is not a function
+2021-08-02T16:02:27.518Z [31merror[39m: 	res.send is not a function
+2021-08-02T16:02:27.698Z [31merror[39m: 	res.send is not a function
+2021-08-02T16:02:27.848Z [31merror[39m: 	res.send is not a function
+2021-08-02T16:02:49.640Z [31merror[39m: 	res.send is not a function
+2021-08-02T17:48:37.352Z [31merror[39m: 	Cannot read property '0' of undefined
+2021-08-02T17:48:40.011Z [31merror[39m: 	res.send is not a function
+2021-08-02T17:49:00.340Z [31merror[39m: 	res.send is not a function
+2021-08-02T17:49:01.881Z [31merror[39m: 	Cannot read property '0' of undefined
+2021-08-02T17:49:02.799Z [31merror[39m: 	res.send is not a function
+2021-08-02T17:51:02.785Z [31merror[39m: 	res.send is not a function
+2021-08-02T17:51:12.680Z [31merror[39m: 	res.send is not a function
+2021-08-02T17:51:15.279Z [31merror[39m: 	Cannot read property '0' of undefined
+2021-08-02T17:51:16.799Z [31merror[39m: 	res.send is not a function
+2021-08-02T17:53:10.653Z [31merror[39m: 	res.send is not a function
+2021-08-02T17:55:18.316Z [31merror[39m: 	res.send is not a function
+2021-08-02T17:55:20.688Z [31merror[39m: 	Cannot read property '0' of undefined
+2021-08-02T17:55:22.242Z [31merror[39m: 	res.send is not a function
+2021-08-02T18:15:28.982Z [31merror[39m: 	Cannot read property '0' of undefined
+2021-08-02T18:16:41.680Z [31merror[39m: 	res.send is not a function
+2021-08-02T18:57:25.986Z [31merror[39m: 	res.send is not a function
+2021-08-02T18:57:42.243Z [31merror[39m: 	Cannot read property '0' of undefined
+2021-08-02T18:57:43.824Z [31merror[39m: 	res.send is not a function
+2021-08-02T19:26:49.686Z [31merror[39m: 	res.send is not a function
+2021-08-02T19:26:57.330Z [31merror[39m: 	res.send is not a function
+2021-08-02T19:31:26.927Z [31merror[39m: 	Cannot read property '0' of undefined
+2021-08-02T19:31:29.893Z [31merror[39m: 	res.send is not a function
+2021-08-02T19:31:51.256Z [31merror[39m: 	res.send is not a function
+2021-08-02T19:31:51.446Z [31merror[39m: 	res.send is not a function
+2021-08-02T19:32:04.453Z [31merror[39m: 	res.send is not a function
+2021-08-02T20:06:09.555Z [31merror[39m: 	Cannot read property '0' of undefined
+2021-08-02T20:06:23.176Z [31merror[39m: 	res.send is not a function
+2021-08-02T20:06:43.686Z [31merror[39m: 	res.send is not a function
+2021-08-02T20:06:43.873Z [31merror[39m: 	res.send is not a function
+2021-08-02T20:06:44.040Z [31merror[39m: 	res.send is not a function
+2021-08-02T20:06:44.203Z [31merror[39m: 	res.send is not a function
+2021-08-02T20:07:29.494Z [31merror[39m: 	Cannot read property '0' of undefined
+2021-08-02T20:07:49.380Z [31merror[39m: 	Cannot read property '0' of undefined
+2021-08-02T20:07:51.454Z [31merror[39m: 	res.send is not a function
+2021-08-02T20:08:11.733Z [31merror[39m: 	res.send is not a function
+2021-08-02T20:08:11.915Z [31merror[39m: 	res.send is not a function
+2021-08-02T20:08:12.076Z [31merror[39m: 	res.send is not a function
+2021-08-02T20:08:12.246Z [31merror[39m: 	res.send is not a function
+2021-08-02T20:08:12.417Z [31merror[39m: 	res.send is not a function
+2021-08-02T20:08:47.746Z [31merror[39m: 	res.send is not a function
+2021-08-02T20:08:47.748Z [31merror[39m: 	res.send is not a function
+2021-08-02T20:08:48.638Z [31merror[39m: 	Cannot read property '0' of undefined
+2021-08-02T20:08:49.900Z [31merror[39m: 	res.send is not a function
+2021-08-02T20:09:24.645Z [31merror[39m: 	res.send is not a function
+2021-08-02T20:09:46.056Z [31merror[39m: 	res.send is not a function
+2021-08-02T20:10:06.440Z [31merror[39m: 	res.send is not a function
+2021-08-02T20:26:18.034Z [31merror[39m: 	res.status is not a function
+2021-08-02T20:35:36.194Z [31merror[39m: 	Cannot read property '0' of undefined
+2021-08-02T20:35:38.237Z [31merror[39m: 	res.status is not a function
+2021-08-02T20:35:44.434Z [31merror[39m: 	res.status is not a function
+2021-08-02T20:36:24.516Z [31merror[39m: 	res.status is not a function
+2021-08-02T20:36:54.108Z [31merror[39m: 	res.status is not a function
+2021-08-02T20:40:30.220Z [31merror[39m: 	Cannot read property '0' of undefined
+2021-08-02T20:41:14.248Z [31merror[39m: 	Cannot read property '0' of undefined
+2021-08-05T04:41:36.712Z [31merror[39m: 	Cast to ObjectId failed for value "graphql" (type string) at path "_id" for model "ProductoModel"
+2021-08-05T04:59:28.266Z [31merror[39m: 	Cast to ObjectId failed for value "graphql" (type string) at path "_id" for model "ProductoModel"
+2021-08-07T22:55:51.603Z [31merror[39m: 	Cannot read property '0' of undefined
+2021-08-07T22:56:06.620Z [31merror[39m: 	Cannot read property '0' of undefined
+2021-08-07T22:58:34.184Z [31merror[39m: 	Cannot read property '0' of undefined
+2021-08-07T23:04:26.584Z [31merror[39m: 	Cannot read property '0' of undefined
+2021-08-07T23:06:45.867Z [31merror[39m: 	Cannot read property '0' of undefined
+2021-08-08T00:10:53.895Z [31merror[39m: 	Cannot read property '0' of undefined
+2021-08-08T00:16:05.109Z [31merror[39m: 	Cannot read property '0' of undefined
+2021-08-08T03:52:20.674Z [31merror[39m: 	Cannot read property '0' of undefined
+2021-08-15T20:16:45.519Z [31merror[39m: 	knex is not defined
+2021-08-15T20:32:13.621Z [31merror[39m: 	req is not defined
+2021-08-15T20:52:59.757Z [31merror[39m: 	req is not defined
+2021-08-15T21:02:51.472Z [31merror[39m: 	readJson is not defined
+2021-08-15T21:03:03.338Z [31merror[39m: 	saveJson is not defined
+2021-08-15T21:04:47.396Z [31merror[39m: 	readJson is not defined
+2021-08-15T21:06:37.968Z [31merror[39m: 	saveJson is not defined
+2021-08-15T21:15:13.779Z [31merror[39m: 	readJson is not defined
+2021-08-15T21:15:38.587Z [31merror[39m: 	readJson is not defined
+2021-08-15T21:17:08.253Z [31merror[39m: 	readJson is not defined
+2021-08-15T21:17:46.102Z [31merror[39m: 	readJson is not defined
+2021-08-15T21:18:22.069Z [31merror[39m: 	readJson is not defined
+2021-08-15T21:18:27.276Z [31merror[39m: 	saveJson is not defined
+2021-08-15T21:34:29.107Z [31merror[39m: 	Unexpected end of JSON input
+2021-08-15T21:36:33.553Z [31merror[39m: 	Unexpected end of JSON input
+2021-08-15T21:40:49.240Z [31merror[39m: 	producto is not defined
+2021-08-15T21:41:04.647Z [31merror[39m: 	producto is not defined
+2021-08-15T21:41:06.424Z [31merror[39m: 	producto is not defined
+2021-08-15T21:41:36.772Z [31merror[39m: 	producto is not defined
+2021-08-15T21:43:58.278Z [31merror[39m: 	Unexpected end of JSON input
+2021-08-15T22:00:30.860Z [31merror[39m: 	Unexpected end of JSON input
+2021-08-15T22:12:58.230Z [31merror[39m: 	prodFiltro.map is not a function
+2021-08-15T22:13:34.665Z [31merror[39m: 	prodFiltro.map is not a function
+2021-08-15T22:16:20.424Z [31merror[39m: 	res is not defined
+2021-08-15T22:18:08.012Z [31merror[39m: 	res is not defined
+2021-08-15T22:18:52.623Z [31merror[39m: 	res is not defined
+2021-08-15T22:19:21.737Z [31merror[39m: 	res is not defined
+2021-08-15T22:20:11.586Z [31merror[39m: 	res is not defined
+2021-08-15T22:20:41.471Z [31merror[39m: 	res is not defined
+2021-08-15T22:21:40.149Z [31merror[39m: 	res is not defined
+2021-08-15T22:34:58.000Z [31merror[39m: 	this.knex is not a function
+2021-08-15T22:35:08.497Z [31merror[39m: 	this.knex is not a function
+2021-08-15T22:35:12.849Z [31merror[39m: 	this.knex is not a function
+2021-08-15T22:35:29.147Z [31merror[39m: 	this.knex is not a function
+2021-08-15T22:35:32.722Z [31merror[39m: 	this.knex is not a function
+2021-08-15T22:35:35.963Z [31merror[39m: 	this.knex is not a function
+2021-08-15T22:36:31.035Z [31merror[39m: 	this.knex is not a function
+2021-08-16T00:00:16.068Z [31merror[39m: 	Error al iniciar servidor Error: listen EADDRINUSE: address already in use :::8080
+2021-08-16T00:03:17.355Z [31merror[39m: 	Error al iniciar servidor Error: listen EADDRINUSE: address already in use :::8080
+2021-08-16T00:06:00.107Z [31merror[39m: 	Error al iniciar servidor Error: listen EADDRINUSE: address already in use :::8080
+2021-08-16T00:06:29.449Z [31merror[39m: 	Error al iniciar servidor Error: listen EADDRINUSE: address already in use :::8080
+2021-08-16T00:06:43.578Z [31merror[39m: 	Error al iniciar servidor Error: listen EADDRINUSE: address already in use :::8080
+2021-08-16T00:06:59.975Z [31merror[39m: 	Error al iniciar servidor Error: listen EADDRINUSE: address already in use :::8080
+2021-08-16T03:50:54.912Z [31merror[39m: 	productoDto is not a function
+2021-08-16T03:53:49.930Z [31merror[39m: 	productoDto is not a function
+2021-08-16T03:54:25.191Z [31merror[39m: 	productoDto is not a function
+2021-08-16T03:54:40.468Z [31merror[39m: 	productoDto is not a function
+2021-08-16T03:55:59.451Z [31merror[39m: 	productoDto is not a function
+2021-08-16T03:56:33.102Z [31merror[39m: 	productoDto is not a function
+2021-08-16T03:57:05.943Z [31merror[39m: 	productoDto is not a function
+2021-08-16T03:57:57.660Z [31merror[39m: 	productoDto is not a function
+2021-08-17T03:08:56.870Z [31merror[39m: 	Cannot read property '0' of undefined
+2021-08-17T03:42:32.546Z [31merror[39m: 	Cannot read property '0' of undefined
+2021-08-17T03:45:10.121Z [31merror[39m: 	Cannot read property '0' of undefined
+2021-08-17T03:45:50.370Z [31merror[39m: 	MensajeModel is not defined
+2021-08-28T23:38:08.570Z [31merror[39m: 	Parameter "obj" to Document() must be an object, got salchica
+2021-08-29T00:30:19.486Z [31merror[39m: 	prodById is not defined
+2021-08-29T00:30:20.673Z [31merror[39m: 	prodById is not defined
+2021-08-29T20:53:31.487Z [31merror[39m: 	Cannot read property 'updatePersistenceProducto' of undefined
+2021-08-29T20:56:14.424Z [31merror[39m: 	Cannot read property 'updatePersistenceProducto' of undefined
+2021-08-29T20:56:26.576Z [31merror[39m: 	Cannot read property 'updatePersistenceProducto' of undefined
+2021-08-29T21:01:41.923Z [31merror[39m: 	Cannot read property 'updateProduct' of undefined
+2021-08-29T21:01:49.108Z [31merror[39m: 	Cannot read property 'updateProduct' of undefined
+2021-08-29T21:02:10.123Z [31merror[39m: 	Cannot read property 'updateProduct' of undefined
+2021-08-29T21:16:07.129Z [31merror[39m: 	Cannot read property 'updatePersistenceProducto' of undefined
+2021-08-29T21:17:03.087Z [31merror[39m: 	Cannot read property 'updatePersistenceProducto' of undefined
+2021-08-29T21:21:41.442Z [31merror[39m: 	Cannot read property 'updatePersistenceProducto' of undefined
+2021-08-29T21:24:22.700Z [31merror[39m: 	Cannot read property 'updatePersistenceProducto' of undefined
+2021-08-29T21:25:02.051Z [31merror[39m: 	Cannot read property 'updatePersistenceProducto' of undefined
+2021-08-29T21:25:18.875Z [31merror[39m: 	Cannot read property 'updatePersistenceProducto' of undefined
+2021-08-29T21:25:39.981Z [31merror[39m: 	Cannot read property 'updatePersistenceProducto' of undefined
+2021-08-29T21:25:59.443Z [31merror[39m: 	Cannot read property 'updatePersistenceProducto' of undefined
+2021-08-29T21:26:46.244Z [31merror[39m: 	Cannot read property 'updateServiceProducto' of undefined
+2021-08-29T21:29:03.199Z [31merror[39m: 	this.updateServiceProducto is not a function
+2021-08-29T21:32:32.484Z [31merror[39m: 	this.updateServiceProducto is not a function
+2021-08-29T21:33:08.386Z [31merror[39m: 	this.updateServiceProducto is not a function
+2021-08-29T22:43:13.400Z [31merror[39m: 	MensajeModel is not defined
+2021-08-29T22:43:13.402Z [31merror[39m: 	Cannot destructure property 'id' of '(intermediate value)' as it is undefined.
+2021-08-29T22:46:01.345Z [31merror[39m: 	MensajeModel is not defined
+2021-08-29T22:46:01.345Z [31merror[39m: 	Cannot destructure property 'id' of '(intermediate value)' as it is undefined.
+2021-08-29T22:46:56.490Z [31merror[39m: 	MensajeModel is not defined
+2021-08-29T22:46:56.491Z [31merror[39m: 	Cannot destructure property 'id' of '(intermediate value)' as it is undefined.
+2021-08-29T22:47:32.887Z [31merror[39m: 	MensajeModel is not defined
+2021-08-29T22:47:32.888Z [31merror[39m: 	Cannot destructure property 'id' of '(intermediate value)' as it is undefined.
+2021-08-29T22:49:09.074Z [31merror[39m: 	Cannot access 'mensajes' before initialization
+2021-08-29T22:50:14.753Z [31merror[39m: 	Cannot access 'mensajes' before initialization
+2021-08-29T22:51:32.893Z [31merror[39m: 	Cannot access 'mensajes' before initialization
+2021-08-29T22:51:50.211Z [31merror[39m: 	Cannot access 'mensajes' before initialization
+2021-08-29T23:02:34.872Z [31merror[39m: 	mensaje is not defined
+2021-08-29T23:30:32.814Z [31merror[39m: 	Cannot read property 'author' of undefined
+2021-08-29T23:31:26.595Z [31merror[39m: 	Cannot read property 'author' of undefined
+2021-08-29T23:32:00.396Z [31merror[39m: 	Cannot read property 'author' of undefined
+2021-08-29T23:32:51.458Z [31merror[39m: 	Cannot read property 'author' of undefined
+2021-08-29T23:33:11.681Z [31merror[39m: 	Cannot read property 'text' of undefined
+2021-08-29T23:33:40.130Z [31merror[39m: 	Cannot read property 'text' of undefined
+2021-08-29T23:33:58.365Z [31merror[39m: 	Cannot read property 'text' of undefined
+2021-08-29T23:34:13.361Z [31merror[39m: 	Cannot read property 'text' of undefined
+2021-08-29T23:46:36.733Z [31merror[39m: 	newMsg.map is not a function
+2021-08-29T23:46:52.417Z [31merror[39m: 	newMsg.map is not a function
+2021-08-29T23:47:23.619Z [31merror[39m: 	newMsg.map is not a function
+2021-08-29T23:48:34.885Z [31merror[39m: 	(intermediate value) is not iterable
+2021-08-29T23:48:37.514Z [31merror[39m: 	(intermediate value) is not iterable
+2021-08-29T23:49:16.459Z [31merror[39m: 	newMsg.map is not a function
+2021-08-29T23:50:48.495Z [31merror[39m: 	newMsg.map is not a function
+2021-08-29T23:51:06.795Z [31merror[39m: 	msg is not defined
+2021-08-29T23:51:26.393Z [31merror[39m: 	msg is not defined
+2021-09-26T20:14:28.926Z [31merror[39m: 	Error al iniciar servidor Error: listen EADDRINUSE: address already in use :::8080
+2021-09-26T20:15:00.725Z [31merror[39m: 	Error al iniciar servidor Error: listen EADDRINUSE: address already in use :::8080
+2021-09-26T20:15:10.602Z [31merror[39m: 	Error al iniciar servidor Error: listen EADDRINUSE: address already in use :::8080
+2021-09-26T20:15:28.825Z [31merror[39m: 	Error al iniciar servidor Error: listen EADDRINUSE: address already in use :::8080
+2021-09-26T20:18:24.592Z [31merror[39m: 	Error al iniciar servidor Error: listen EADDRINUSE: address already in use :::8080
+2021-09-26T20:18:27.435Z [31merror[39m: 	Error al iniciar servidor Error: listen EADDRINUSE: address already in use :::8080
+2021-09-26T20:18:33.779Z [31merror[39m: 	Error al iniciar servidor Error: listen EADDRINUSE: address already in use :::8080
+2021-09-26T20:18:35.449Z [31merror[39m: 	Error al iniciar servidor Error: listen EADDRINUSE: address already in use :::8080
+2021-09-26T20:19:28.269Z [31merror[39m: 	Error al iniciar servidor Error: listen EADDRINUSE: address already in use :::8080
+2021-09-26T20:20:28.201Z [31merror[39m: 	Error al iniciar servidor Error: listen EADDRINUSE: address already in use :::8080
+2021-09-26T20:21:03.234Z [31merror[39m: 	Error al iniciar servidor Error: listen EADDRINUSE: address already in use :::8080
+2021-09-26T20:21:17.880Z [31merror[39m: 	Error al iniciar servidor Error: listen EADDRINUSE: address already in use :::8080
+2021-09-26T20:21:25.802Z [31merror[39m: 	Error al iniciar servidor Error: listen EADDRINUSE: address already in use :::8080
+2021-09-26T20:21:30.412Z [31merror[39m: 	Error al iniciar servidor Error: listen EADDRINUSE: address already in use :::8080
+2021-09-26T20:24:45.566Z [31merror[39m: 	Error al iniciar servidor Error: listen EADDRINUSE: address already in use :::8080
+2021-09-26T20:24:54.610Z [31merror[39m: 	Error al iniciar servidor Error: listen EADDRINUSE: address already in use :::8080
+2021-09-26T20:25:11.139Z [31merror[39m: 	Error al iniciar servidor Error: listen EADDRINUSE: address already in use :::8080
+2021-09-26T20:25:59.745Z [31merror[39m: 	Error al iniciar servidor Error: listen EADDRINUSE: address already in use :::8080
+2021-09-26T20:26:58.720Z [31merror[39m: 	Error al iniciar servidor Error: listen EADDRINUSE: address already in use :::8080
+2021-09-26T20:27:37.071Z [31merror[39m: 	Error al iniciar servidor Error: listen EADDRINUSE: address already in use :::8080
+2021-09-26T20:28:56.273Z [31merror[39m: 	Error al iniciar servidor Error: listen EADDRINUSE: address already in use :::8080
+2021-09-26T20:29:02.836Z [31merror[39m: 	Error al iniciar servidor Error: listen EADDRINUSE: address already in use :::8080
+2021-09-26T20:30:10.444Z [31merror[39m: 	Error al iniciar servidor Error: listen EADDRINUSE: address already in use :::8080
+2021-09-26T20:33:21.295Z [31merror[39m: 	Error al iniciar servidor Error: listen EADDRINUSE: address already in use :::8080
+2021-09-26T20:33:23.133Z [31merror[39m: 	Error al iniciar servidor Error: listen EADDRINUSE: address already in use :::8080
+2021-09-26T20:33:26.091Z [31merror[39m: 	Error al iniciar servidor Error: listen EADDRINUSE: address already in use :::8080
+2021-09-26T20:34:30.308Z [31merror[39m: 	Error al iniciar servidor Error: listen EADDRINUSE: address already in use :::8080
+2021-09-26T20:35:07.539Z [31merror[39m: 	Error al iniciar servidor Error: listen EADDRINUSE: address already in use :::8080
+2021-09-26T20:35:58.297Z [31merror[39m: 	Error al iniciar servidor Error: listen EADDRINUSE: address already in use :::8080
+2021-09-26T20:36:40.591Z [31merror[39m: 	Error al iniciar servidor Error: listen EADDRINUSE: address already in use :::8080
+2021-09-26T20:37:51.254Z [31merror[39m: 	Error al iniciar servidor Error: listen EADDRINUSE: address already in use :::8080
+2021-09-26T20:37:56.357Z [31merror[39m: 	Error al iniciar servidor Error: listen EADDRINUSE: address already in use :::8080
+2021-09-26T20:38:37.733Z [31merror[39m: 	Error al iniciar servidor Error: listen EADDRINUSE: address already in use :::8080
+2021-09-26T20:39:06.768Z [31merror[39m: 	Error al iniciar servidor Error: listen EADDRINUSE: address already in use :::8080
+2021-09-26T20:39:20.759Z [31merror[39m: 	Error al iniciar servidor Error: listen EADDRINUSE: address already in use :::8080
+2021-09-26T20:39:24.720Z [31merror[39m: 	Error al iniciar servidor Error: listen EADDRINUSE: address already in use :::8080
+2021-09-26T20:39:49.361Z [31merror[39m: 	Error al iniciar servidor Error: listen EADDRINUSE: address already in use :::8080
+2021-09-26T20:39:56.268Z [31merror[39m: 	Error al iniciar servidor Error: listen EADDRINUSE: address already in use :::8080
+2021-09-26T20:40:04.044Z [31merror[39m: 	Error al iniciar servidor Error: listen EADDRINUSE: address already in use :::8080
+2021-09-26T20:40:07.893Z [31merror[39m: 	Error al iniciar servidor Error: listen EADDRINUSE: address already in use :::8080
+2021-09-26T20:40:23.739Z [31merror[39m: 	Error al iniciar servidor Error: listen EADDRINUSE: address already in use :::8080
+2021-09-26T20:42:32.888Z [31merror[39m: 	Error al iniciar servidor Error: listen EADDRINUSE: address already in use :::8080
+2021-09-26T20:42:51.779Z [31merror[39m: 	Error al iniciar servidor Error: listen EADDRINUSE: address already in use :::8080
+2021-09-26T20:42:55.440Z [31merror[39m: 	checkEmailDB is not defined
+2021-09-26T20:44:39.263Z [31merror[39m: 	Error al iniciar servidor Error: listen EADDRINUSE: address already in use :::8080
+2021-09-26T20:44:57.519Z [31merror[39m: 	Error al iniciar servidor Error: listen EADDRINUSE: address already in use :::8080
+2021-09-26T20:45:15.092Z [31merror[39m: 	Error al iniciar servidor Error: listen EADDRINUSE: address already in use :::8080
+2021-09-26T20:45:22.432Z [31merror[39m: 	checkEmailDB is not defined
+2021-09-26T20:45:46.064Z [31merror[39m: 	Error al iniciar servidor Error: listen EADDRINUSE: address already in use :::8080
+2021-09-26T20:46:11.969Z [31merror[39m: 	Error al iniciar servidor Error: listen EADDRINUSE: address already in use :::8080
+2021-09-26T20:46:30.014Z [31merror[39m: 	Error al iniciar servidor Error: listen EADDRINUSE: address already in use :::8080
+2021-09-26T20:46:33.376Z [31merror[39m: 	Error al iniciar servidor Error: listen EADDRINUSE: address already in use :::8080
+2021-09-26T20:46:39.234Z [31merror[39m: 	Error al iniciar servidor Error: listen EADDRINUSE: address already in use :::8080
+2021-09-26T20:46:51.587Z [31merror[39m: 	Error al iniciar servidor Error: listen EADDRINUSE: address already in use :::8080
+2021-09-26T20:47:10.965Z [31merror[39m: 	checkEmailDB is not defined
+2021-09-26T20:47:55.714Z [31merror[39m: 	Error al iniciar servidor Error: listen EADDRINUSE: address already in use :::8080
+2021-09-26T20:47:55.730Z [31merror[39m: 	Error al iniciar servidor Error: listen EADDRINUSE: address already in use :::8080
+2021-09-26T20:47:58.489Z [31merror[39m: 	checkEmailDB is not defined
+2021-09-26T20:48:07.143Z [31merror[39m: 	Error al iniciar servidor Error: listen EADDRINUSE: address already in use :::8080
+2021-09-26T20:48:21.729Z [31merror[39m: 	Error al iniciar servidor Error: listen EADDRINUSE: address already in use :::8080
+2021-09-26T20:48:39.362Z [31merror[39m: 	Error al iniciar servidor Error: listen EADDRINUSE: address already in use :::8080
+2021-09-26T20:48:39.410Z [31merror[39m: 	Error al iniciar servidor Error: listen EADDRINUSE: address already in use :::8080
+2021-09-26T20:48:39.431Z [31merror[39m: 	Error al iniciar servidor Error: listen EADDRINUSE: address already in use :::8080
+2021-09-26T20:48:59.505Z [31merror[39m: 	Error al iniciar servidor Error: listen EADDRINUSE: address already in use :::8080
+2021-09-26T20:48:59.562Z [31merror[39m: 	Error al iniciar servidor Error: listen EADDRINUSE: address already in use :::8080
+2021-09-26T20:48:59.575Z [31merror[39m: 	Error al iniciar servidor Error: listen EADDRINUSE: address already in use :::8080
+2021-09-26T20:49:47.166Z [31merror[39m: 	Error al iniciar servidor Error: listen EADDRINUSE: address already in use :::8080
+2021-09-26T20:49:47.251Z [31merror[39m: 	Error al iniciar servidor Error: listen EADDRINUSE: address already in use :::8080
+2021-09-26T20:49:47.372Z [31merror[39m: 	Error al iniciar servidor Error: listen EADDRINUSE: address already in use :::8080
+2021-09-26T20:50:10.130Z [31merror[39m: 	Error al iniciar servidor Error: listen EADDRINUSE: address already in use :::8080
+2021-09-26T21:18:33.476Z [31merror[39m: 	Error al iniciar servidor Error: listen EADDRINUSE: address already in use :::8080
+2021-09-26T21:19:23.567Z [31merror[39m: 	Error al iniciar servidor Error: listen EADDRINUSE: address already in use :::8080
+2021-09-26T21:19:44.339Z [31merror[39m: 	Error al iniciar servidor Error: listen EADDRINUSE: address already in use :::8080
+2021-09-26T21:19:44.365Z [31merror[39m: 	Error al iniciar servidor Error: listen EADDRINUSE: address already in use :::8080
+2021-09-26T21:19:59.261Z [31merror[39m: 	Error al iniciar servidor Error: listen EADDRINUSE: address already in use :::8080
+2021-09-26T21:20:09.553Z [31merror[39m: 	Error al iniciar servidor Error: listen EADDRINUSE: address already in use :::8080
+2021-09-26T21:20:09.597Z [31merror[39m: 	Error al iniciar servidor Error: listen EADDRINUSE: address already in use :::8080
+2021-09-26T21:20:41.754Z [31merror[39m: 	Error al iniciar servidor Error: listen EADDRINUSE: address already in use :::8080
+2021-09-26T21:20:41.817Z [31merror[39m: 	Error al iniciar servidor Error: listen EADDRINUSE: address already in use :::8080
+2021-09-26T23:01:34.501Z [31merror[39m: 	checkEmailDB is not defined
+2021-09-26T23:01:50.867Z [31merror[39m: 	checkEmailDB is not defined
+2021-09-26T23:08:14.513Z [31merror[39m: 	checkEmailDB is not defined
+2021-09-26T23:09:19.277Z [31merror[39m: 	checkEmailDB is not defined
+2021-09-26T23:09:33.117Z [31merror[39m: 	checkEmailDB is not defined
+2021-09-26T23:09:47.625Z [31merror[39m: 	checkEmailDB is not defined
+2021-09-26T23:10:13.249Z [31merror[39m: 	factory is not defined
+2021-09-26T23:12:31.326Z [31merror[39m: 	User is not defined
+2021-09-26T23:13:11.161Z [31merror[39m: 	User is not defined
+2021-09-26T23:16:43.087Z [31merror[39m: 	Parameter "filter" to findOne() must be an object, got juan@p.com
+2021-09-26T23:52:43.123Z [31merror[39m: 	UserModel is not a constructor
+2021-09-26T23:56:01.359Z [31merror[39m: 	UserModel is not a constructor
+2021-09-26T23:58:45.476Z [31merror[39m: 	UserModel is not a constructor
+2021-09-27T00:00:16.634Z [31merror[39m: 	UserModel is not a constructor
+2021-09-27T00:01:28.850Z [31merror[39m: 	UserModel is not a constructor
+2021-09-27T00:01:48.510Z [31merror[39m: 	UserModel is not a constructor
+2021-09-27T00:02:33.530Z [31merror[39m: 	UserModel is not a constructor
+2021-09-27T00:03:04.765Z [31merror[39m: 	UserModel is not a constructor
+2021-09-27T00:04:13.538Z [31merror[39m: 	UserModel is not a constructor
+2021-09-27T00:05:05.004Z [31merror[39m: 	UserModel is not a constructor
+2021-09-27T00:06:34.531Z [31merror[39m: 	UserModel is not a constructor
+2021-09-27T00:07:07.134Z [31merror[39m: 	UserModel is not a constructor
+2021-09-27T00:15:47.709Z [31merror[39m: 	UserModel is not a constructor
+2021-09-27T00:17:20.094Z [31merror[39m: 	UserModel is not a constructor
+2021-09-27T00:18:02.310Z [31merror[39m: 	UserModel is not a constructor
+2021-09-27T00:26:54.289Z [31merror[39m: 	UserModel is not a constructor
+2021-09-27T00:27:53.420Z [31merror[39m: 	UserModel is not a constructor
+2021-09-27T00:28:50.717Z [31merror[39m: 	UserModel is not a constructor
+2021-09-27T00:29:49.259Z [31merror[39m: 	UserModel is not a constructor
+2021-09-27T00:30:51.732Z [31merror[39m: 	Cannot read property 'methods' of undefined
+2021-09-27T00:31:21.940Z [31merror[39m: 	Cannot read property 'methods' of undefined
+2021-09-27T00:33:09.824Z [31merror[39m: 	UserModel is not a constructor
+2021-09-27T00:33:31.605Z [31merror[39m: 	UserModel is not a constructor
+2021-09-27T00:34:31.947Z [31merror[39m: 	UserModel is not a constructor
+2021-09-27T00:35:39.595Z [31merror[39m: 	UserModel is not a constructor
+2021-09-27T00:35:59.262Z [31merror[39m: 	UserModel is not a constructor
+2021-09-27T00:36:21.343Z [31merror[39m: 	UserModel is not a constructor
+2021-09-27T00:36:39.689Z [31merror[39m: 	UserModel is not a constructor
+2021-09-27T00:37:59.092Z [31merror[39m: 	UserModel is not a constructor
+2021-09-27T00:38:26.000Z [31merror[39m: 	UserModel is not a constructor
+2021-09-27T00:38:39.170Z [31merror[39m: 	UserModel is not a constructor
+2021-09-27T00:38:50.852Z [31merror[39m: 	UserModel is not a constructor
+2021-09-27T00:39:26.021Z [31merror[39m: 	UserModel is not a constructor
+2021-09-27T00:41:06.235Z [31merror[39m: 	Cannot read property 'methods' of undefined
+2021-09-27T01:53:46.782Z [31merror[39m: 	bcrypt is not defined
+2021-09-27T01:54:11.570Z [31merror[39m: 	bcrypt is not defined
+2021-09-27T01:54:31.173Z [31merror[39m: 	bcrypt is not defined
+2021-09-27T01:55:28.121Z [31merror[39m: 	bcrypt is not defined
+2021-09-27T01:55:57.382Z [31merror[39m: 	bcrypt is not defined
+2021-09-27T01:56:16.444Z [31merror[39m: 	bcrypt is not defined
+2021-09-27T01:57:03.828Z [31merror[39m: 	bcrypt is not defined
+2021-09-27T01:57:36.265Z [31merror[39m: 	bcrypt is not defined
+2021-09-27T01:58:29.246Z [31merror[39m: 	bcrypt is not defined
+2021-09-27T01:58:57.294Z [31merror[39m: 	bcrypt is not defined
+2021-09-27T02:00:42.691Z [31merror[39m: 	bcrypt is not defined
+2021-09-27T02:03:06.942Z [31merror[39m: 	bcrypt is not defined
+2021-09-27T02:03:50.281Z [31merror[39m: 	bcrypt is not defined
+2021-09-27T02:05:28.217Z [31merror[39m: 	bcrypt is not defined
+2021-09-27T02:06:06.566Z [31merror[39m: 	factory.validatePassword is not a function
+2021-09-27T02:08:21.604Z [31merror[39m: 	factory.validatePassword is not a function
+2021-09-27T02:17:15.014Z [31merror[39m: 	factory.validatePassword is not a function
+2021-09-27T02:17:56.933Z [31merror[39m: 	factory.validatePassword is not a function
+2021-09-27T02:18:14.078Z [31merror[39m: 	factory.validatePassword is not a function
+2021-09-27T02:23:39.768Z [31merror[39m: 	matchPassword is not defined
+2021-09-27T02:26:38.169Z [31merror[39m: 	Invalid status code: error
+2021-09-27T02:27:02.583Z [31merror[39m: 	Invalid status code: error
+2021-09-27T03:08:58.155Z [31merror[39m: 	mainGetService is not defined
+2021-09-27T03:14:52.972Z [31merror[39m: 	Cannot set headers after they are sent to the client
+2021-09-27T03:15:28.320Z [31merror[39m: 	Cannot set headers after they are sent to the client
+2021-09-27T03:15:51.250Z [31merror[39m: 	Cannot set headers after they are sent to the client
+2021-09-27T03:17:53.510Z [31merror[39m: 	Invalid status code: {
+  _id: 6151159007551253971c1eba,
+  email: 'maria@p.com',
+  password: '$2a$10$JdhHObq/Sq9UOKrpcWCkq.Vv.GiqMWuaRAW2w3hjjzaRrjPNNBkNq',
+  username: 'Maria',
+  phone: 1234455,
+  createdAt: 2021-09-27T00:51:28.324Z,
+  updatedAt: 2021-09-27T00:51:28.324Z
+}
+2021-09-27T03:18:54.315Z [31merror[39m: 	Invalid status code: { user: [Object] }
+2021-09-27T03:23:03.840Z [31merror[39m: 	Cannot read property 'username' of undefined
+2021-09-28T04:04:19.156Z [31merror[39m: 	Error al iniciar servidor Error: listen EADDRINUSE: address already in use :::8080
+2021-09-28T04:04:42.736Z [31merror[39m: 	Error al iniciar servidor Error: listen EADDRINUSE: address already in use :::8080
+2021-09-28T04:05:00.819Z [31merror[39m: 	Error al iniciar servidor Error: listen EADDRINUSE: address already in use :::8080
+2021-09-28T04:05:29.906Z [31merror[39m: 	Error al iniciar servidor Error: listen EADDRINUSE: address already in use :::8080
+2021-09-28T04:06:20.073Z [31merror[39m: 	Error al iniciar servidor Error: listen EADDRINUSE: address already in use :::8080
+2021-09-28T04:06:41.059Z [31merror[39m: 	Error al iniciar servidor Error: listen EADDRINUSE: address already in use :::8080
+2021-09-28T04:06:45.497Z [31merror[39m: 	Error al iniciar servidor Error: listen EADDRINUSE: address already in use :::8080
+2021-09-28T04:08:14.820Z [31merror[39m: 	Error al iniciar servidor Error: listen EADDRINUSE: address already in use :::8080
+2021-09-28T04:09:05.877Z [31merror[39m: 	Error al iniciar servidor Error: listen EADDRINUSE: address already in use :::8080
+2021-09-28T04:09:32.066Z [31merror[39m: 	Error al iniciar servidor Error: listen EADDRINUSE: address already in use :::8080
+2021-09-28T04:09:47.765Z [31merror[39m: 	Error al iniciar servidor Error: listen EADDRINUSE: address already in use :::8080
+2021-09-28T04:41:34.999Z [31merror[39m: 	Error al iniciar servidor Error: listen EADDRINUSE: address already in use :::8080
+2021-09-28T04:45:25.325Z [31merror[39m: 	Error al iniciar servidor Error: listen EADDRINUSE: address already in use :::8080
+2021-09-28T04:45:48.988Z [31merror[39m: 	Error al iniciar servidor Error: listen EADDRINUSE: address already in use :::8080
+2021-09-28T04:47:34.842Z [31merror[39m: 	Error al iniciar servidor Error: listen EADDRINUSE: address already in use :::8080
+2021-09-28T04:48:04.474Z [31merror[39m: 	Error al iniciar servidor Error: listen EADDRINUSE: address already in use :::8080
+2021-09-28T04:48:13.194Z [31merror[39m: 	Error al iniciar servidor Error: listen EADDRINUSE: address already in use :::8080
+2021-09-28T04:48:41.928Z [31merror[39m: 	Error al iniciar servidor Error: listen EADDRINUSE: address already in use :::8080
+2021-09-28T04:48:44.202Z [31merror[39m: 	Error al iniciar servidor Error: listen EADDRINUSE: address already in use :::8080
+2021-09-28T04:49:11.453Z [31merror[39m: 	Error al iniciar servidor Error: listen EADDRINUSE: address already in use :::8080
+2021-09-28T04:49:14.932Z [31merror[39m: 	Error al iniciar servidor Error: listen EADDRINUSE: address already in use :::8080
+2021-09-28T04:49:18.465Z [31merror[39m: 	Error al iniciar servidor Error: listen EADDRINUSE: address already in use :::8080
+2021-09-28T04:49:52.473Z [31merror[39m: 	Error al iniciar servidor Error: listen EADDRINUSE: address already in use :::8080
+2021-09-28T04:52:01.996Z [31merror[39m: 	Error al iniciar servidor Error: listen EADDRINUSE: address already in use :::8080
+2021-09-28T05:03:28.476Z [31merror[39m: 	Cannot read property 'title' of undefined
+2021-09-28T05:03:28.477Z [31merror[39m: 	Cannot read property 'status' of undefined
+2021-09-28T05:06:32.126Z [31merror[39m: 	Cannot read property 'title' of undefined
+2021-09-28T05:06:32.127Z [31merror[39m: 	Cannot read property 'status' of undefined
+2021-09-28T05:08:25.369Z [31merror[39m: 	Error al iniciar servidor Error: listen EADDRINUSE: address already in use :::8080
+2021-09-28T05:08:35.854Z [31merror[39m: 	Error al iniciar servidor Error: listen EADDRINUSE: address already in use :::8080
+2021-09-28T05:08:45.083Z [31merror[39m: 	Error al iniciar servidor Error: listen EADDRINUSE: address already in use :::8080
+2021-09-28T05:09:13.856Z [31merror[39m: 	Cannot read property 'title' of undefined
+2021-09-28T05:09:13.857Z [31merror[39m: 	Cannot read property 'redirect' of undefined
+2021-09-28T05:09:25.303Z [31merror[39m: 	Error al iniciar servidor Error: listen EADDRINUSE: address already in use :::8080
+2021-09-28T05:10:03.304Z [31merror[39m: 	Error al iniciar servidor Error: listen EADDRINUSE: address already in use :::8080
+2021-09-28T05:10:29.094Z [31merror[39m: 	Cannot read property 'title' of undefined
+2021-09-28T05:10:29.099Z [31merror[39m: 	Cannot read property 'redirect' of undefined
+2021-09-28T05:17:24.190Z [31merror[39m: 	Error al iniciar servidor Error: listen EADDRINUSE: address already in use :::8080
+2021-09-28T05:18:27.844Z [31merror[39m: 	Error al iniciar servidor Error: listen EADDRINUSE: address already in use :::8080
+2021-09-28T05:21:55.217Z [31merror[39m: 	Error al iniciar servidor Error: listen EADDRINUSE: address already in use :::8080
+2021-09-28T05:24:23.115Z [31merror[39m: 	Error al iniciar servidor Error: listen EADDRINUSE: address already in use :::8080
+2021-09-28T05:25:57.925Z [31merror[39m: 	Error al iniciar servidor Error: listen EADDRINUSE: address already in use :::8080
+2021-09-28T05:27:06.542Z [31merror[39m: 	Error al iniciar servidor Error: listen EADDRINUSE: address already in use :::8080
+2021-09-28T05:27:25.505Z [31merror[39m: 	Error al iniciar servidor Error: listen EADDRINUSE: address already in use :::8080
+2021-09-28T05:29:44.582Z [31merror[39m: 	Error al iniciar servidor Error: listen EADDRINUSE: address already in use :::8080
+2021-09-28T05:30:43.961Z [31merror[39m: 	Error al iniciar servidor Error: listen EADDRINUSE: address already in use :::8080
+2021-09-28T05:30:52.189Z [31merror[39m: 	Error al iniciar servidor Error: listen EADDRINUSE: address already in use :::8080
+2021-09-28T05:31:29.612Z [31merror[39m: 	Error al iniciar servidor Error: listen EADDRINUSE: address already in use :::8080
+2021-09-28T05:31:37.680Z [31merror[39m: 	Cast to ObjectId failed for value "category" (type string) at path "_id" for model "ProductoModel"
+2021-09-28T05:31:47.679Z [31merror[39m: 	Cast to ObjectId failed for value "category" (type string) at path "_id" for model "ProductoModel"
+2021-09-28T05:31:48.839Z [31merror[39m: 	Cast to ObjectId failed for value "category" (type string) at path "_id" for model "ProductoModel"
+2021-09-28T05:31:49.782Z [31merror[39m: 	Cast to ObjectId failed for value "category" (type string) at path "_id" for model "ProductoModel"
+2021-09-28T05:31:50.592Z [31merror[39m: 	Cast to ObjectId failed for value "category" (type string) at path "_id" for model "ProductoModel"
+2021-09-28T05:32:08.888Z [31merror[39m: 	Error al iniciar servidor Error: listen EADDRINUSE: address already in use :::8080
+2021-09-28T05:32:35.262Z [31merror[39m: 	Cast to ObjectId failed for value "category" (type string) at path "_id" for model "ProductoModel"
+2021-09-28T05:32:41.197Z [31merror[39m: 	Cast to ObjectId failed for value "category" (type string) at path "_id" for model "ProductoModel"
+2021-09-28T05:32:42.230Z [31merror[39m: 	Cast to ObjectId failed for value "category" (type string) at path "_id" for model "ProductoModel"
+2021-09-28T05:32:43.013Z [31merror[39m: 	Cast to ObjectId failed for value "category" (type string) at path "_id" for model "ProductoModel"
+2021-09-28T05:32:43.907Z [31merror[39m: 	Cast to ObjectId failed for value "category" (type string) at path "_id" for model "ProductoModel"
+2021-09-28T05:32:44.583Z [31merror[39m: 	Cast to ObjectId failed for value "category" (type string) at path "_id" for model "ProductoModel"
+2021-09-28T05:32:45.264Z [31merror[39m: 	Cast to ObjectId failed for value "category" (type string) at path "_id" for model "ProductoModel"
+2021-09-28T05:32:45.968Z [31merror[39m: 	Cast to ObjectId failed for value "category" (type string) at path "_id" for model "ProductoModel"
+2021-09-28T05:33:14.353Z [31merror[39m: 	Error al iniciar servidor Error: listen EADDRINUSE: address already in use :::8080
+2021-09-28T05:33:38.468Z [31merror[39m: 	Error al iniciar servidor Error: listen EADDRINUSE: address already in use :::8080
+2021-09-28T05:34:14.277Z [31merror[39m: 	Error al iniciar servidor Error: listen EADDRINUSE: address already in use :::8080
+2021-09-28T05:34:28.437Z [31merror[39m: 	Error al iniciar servidor Error: listen EADDRINUSE: address already in use :::8080
+2021-09-28T05:35:03.151Z [31merror[39m: 	Error al iniciar servidor Error: listen EADDRINUSE: address already in use :::8080
+2021-09-28T05:35:18.640Z [31merror[39m: 	Error al iniciar servidor Error: listen EADDRINUSE: address already in use :::8080
+2021-09-28T05:35:29.368Z [31merror[39m: 	Error al iniciar servidor Error: listen EADDRINUSE: address already in use :::8080
+2021-09-28T05:36:08.846Z [31merror[39m: 	Error al iniciar servidor Error: listen EADDRINUSE: address already in use :::8080
+2021-09-28T05:36:23.775Z [31merror[39m: 	Error al iniciar servidor Error: listen EADDRINUSE: address already in use :::8080
+2021-09-28T05:36:39.212Z [31merror[39m: 	Error al iniciar servidor Error: listen EADDRINUSE: address already in use :::8080
+2021-09-28T05:37:02.401Z [31merror[39m: 	Error al iniciar servidor Error: listen EADDRINUSE: address already in use :::8080
+2021-09-28T05:38:27.481Z [31merror[39m: 	Error al iniciar servidor Error: listen EADDRINUSE: address already in use :::8080
+2021-09-28T05:43:12.268Z [31merror[39m: 	Error al iniciar servidor Error: listen EADDRINUSE: address already in use :::8080
+2021-09-28T05:43:37.591Z [31merror[39m: 	Error al iniciar servidor Error: listen EADDRINUSE: address already in use :::8080
+2021-09-28T05:43:59.278Z [31merror[39m: 	Error al iniciar servidor Error: listen EADDRINUSE: address already in use :::8080
+2021-09-28T05:44:22.622Z [31merror[39m: 	Error al iniciar servidor Error: listen EADDRINUSE: address already in use :::8080
+2021-09-28T05:44:42.852Z [31merror[39m: 	Error al iniciar servidor Error: listen EADDRINUSE: address already in use :::8080
+2021-09-28T05:44:55.695Z [31merror[39m: 	Error al iniciar servidor Error: listen EADDRINUSE: address already in use :::8080
+2021-09-28T05:45:28.028Z [31merror[39m: 	Error al iniciar servidor Error: listen EADDRINUSE: address already in use :::8080
+2021-09-28T05:45:48.826Z [31merror[39m: 	Error al iniciar servidor Error: listen EADDRINUSE: address already in use :::8080
+2021-09-28T05:46:15.675Z [31merror[39m: 	Error al iniciar servidor Error: listen EADDRINUSE: address already in use :::8080
+2021-09-28T05:46:36.460Z [31merror[39m: 	Error al iniciar servidor Error: listen EADDRINUSE: address already in use :::8080
+2021-09-28T05:46:43.363Z [31merror[39m: 	req is not defined
+2021-09-28T05:47:07.636Z [31merror[39m: 	Error al iniciar servidor Error: listen EADDRINUSE: address already in use :::8080
+2021-09-28T05:47:25.837Z [31merror[39m: 	Error al iniciar servidor Error: listen EADDRINUSE: address already in use :::8080
+2021-09-28T05:47:30.043Z [31merror[39m: 	Error al iniciar servidor Error: listen EADDRINUSE: address already in use :::8080
+2021-09-28T05:47:47.399Z [31merror[39m: 	Error al iniciar servidor Error: listen EADDRINUSE: address already in use :::8080
+2021-09-28T05:47:53.927Z [31merror[39m: 	Error al iniciar servidor Error: listen EADDRINUSE: address already in use :::8080
+2021-09-28T05:48:21.380Z [31merror[39m: 	Error al iniciar servidor Error: listen EADDRINUSE: address already in use :::8080
+2021-09-28T05:48:24.490Z [31merror[39m: 	Error al iniciar servidor Error: listen EADDRINUSE: address already in use :::8080
+2021-09-28T05:50:59.361Z [31merror[39m: 	Error al iniciar servidor Error: listen EADDRINUSE: address already in use :::8080
+2021-09-28T05:52:52.191Z [31merror[39m: 	Error al iniciar servidor Error: listen EADDRINUSE: address already in use :::8080
+2021-09-28T05:52:55.318Z [31merror[39m: 	Error al iniciar servidor Error: listen EADDRINUSE: address already in use :::8080
+2021-09-28T05:53:06.292Z [31merror[39m: 	Error al iniciar servidor Error: listen EADDRINUSE: address already in use :::8080
+2021-09-28T05:53:19.466Z [31merror[39m: 	Error al iniciar servidor Error: listen EADDRINUSE: address already in use :::8080
+2021-09-28T05:53:42.439Z [31merror[39m: 	Error al iniciar servidor Error: listen EADDRINUSE: address already in use :::8080
+2021-09-28T05:53:52.698Z [31merror[39m: 	Error al iniciar servidor Error: listen EADDRINUSE: address already in use :::8080
+2021-09-28T05:54:17.595Z [31merror[39m: 	Error al iniciar servidor Error: listen EADDRINUSE: address already in use :::8080
+2021-09-28T05:54:29.884Z [31merror[39m: 	Error al iniciar servidor Error: listen EADDRINUSE: address already in use :::8080
+2021-09-28T05:54:40.007Z [31merror[39m: 	Error al iniciar servidor Error: listen EADDRINUSE: address already in use :::8080
+2021-09-28T05:55:02.227Z [31merror[39m: 	Error al iniciar servidor Error: listen EADDRINUSE: address already in use :::8080
+2021-09-28T05:55:09.636Z [31merror[39m: 	Error al iniciar servidor Error: listen EADDRINUSE: address already in use :::8080
+2021-09-28T05:55:27.414Z [31merror[39m: 	Error al iniciar servidor Error: listen EADDRINUSE: address already in use :::8080
+2021-09-28T05:55:28.616Z [31merror[39m: 	Error al iniciar servidor Error: listen EADDRINUSE: address already in use :::8080
+2021-09-28T05:55:47.886Z [31merror[39m: 	Error al iniciar servidor Error: listen EADDRINUSE: address already in use :::8080
+2021-09-28T05:56:07.541Z [31merror[39m: 	Error al iniciar servidor Error: listen EADDRINUSE: address already in use :::8080
+2021-09-28T05:56:12.233Z [31merror[39m: 	Error al iniciar servidor Error: listen EADDRINUSE: address already in use :::8080
+2021-09-28T05:56:38.708Z [31merror[39m: 	Error al iniciar servidor Error: listen EADDRINUSE: address already in use :::8080
+2021-09-29T04:00:10.038Z [31merror[39m: 	Cannot read property 'title' of undefined
+2021-09-29T04:00:10.040Z [31merror[39m: 	Cannot read property 'redirect' of undefined
+2021-09-29T04:02:22.297Z [31merror[39m: 	Cannot read property 'title' of undefined
+2021-09-29T04:02:22.298Z [31merror[39m: 	Cannot read property 'redirect' of undefined
+2021-09-29T04:09:42.196Z [31merror[39m: 	Cannot read property 'title' of undefined
+2021-09-29T04:09:42.197Z [31merror[39m: 	Cannot read property 'redirect' of undefined
+2021-09-29T04:10:58.729Z [31merror[39m: 	Cannot read property 'title' of undefined
+2021-09-29T04:10:58.729Z [31merror[39m: 	Cannot read property 'redirect' of undefined
+2021-09-29T04:26:56.888Z [31merror[39m: 	Cannot read property 'title' of undefined
+2021-09-29T04:26:56.889Z [31merror[39m: 	Cannot read property 'redirect' of undefined
+2021-09-29T04:28:38.831Z [31merror[39m: 	Cannot read property 'title' of undefined
+2021-09-29T04:28:38.832Z [31merror[39m: 	Cannot read property 'redirect' of undefined
+2021-09-29T04:28:55.373Z [31merror[39m: 	Cannot read property 'redirect' of undefined
+2021-09-29T06:12:42.948Z [31merror[39m: 	Error al iniciar servidor Error: listen EADDRINUSE: address already in use :::8080
+2021-09-30T03:38:45.980Z [31merror[39m: 	productsArray is not defined
+2021-09-30T03:39:59.384Z [31merror[39m: 	productsArray is not defined
+2021-09-30T04:05:25.223Z [31merror[39m: 	data.map is not a function
+2021-09-30T04:06:13.344Z [31merror[39m: 	data.map is not a function
+2021-09-30T04:15:50.339Z [31merror[39m: 	cartDb.findByIdAndDelete is not a function
+2021-09-30T04:16:59.424Z [31merror[39m: 	cartDb.findByIdAndDelete is not a function
+2021-09-30T04:18:05.324Z [31merror[39m: 	cartDb.findByIdAndDelete is not a function
+2021-09-30T04:18:20.177Z [31merror[39m: 	cartDb.findByIdAndDelete is not a function
+2021-09-30T04:18:53.689Z [31merror[39m: 	cartDb.findByIdAndDelete is not a function
+2021-10-01T00:07:04.539Z [31merror[39m: 	Operation `productomodels.find()` buffering timed out after 10000ms
+2021-10-01T00:07:15.032Z [31merror[39m: 	Operation `productomodels.find()` buffering timed out after 10000ms
+2021-10-01T00:28:16.091Z [31merror[39m: 	Cannot read property 'redirect' of undefined
+2021-10-01T00:31:23.000Z [31merror[39m: 	Cannot read property 'redirect' of undefined
+2021-10-01T00:32:40.336Z [31merror[39m: 	Cannot read property 'redirect' of undefined
+2021-10-01T00:33:49.950Z [31merror[39m: 	Cannot read property 'redirect' of undefined
+2021-10-01T00:35:35.093Z [31merror[39m: 	Cannot read property 'redirect' of undefined
+2021-10-01T00:37:24.014Z [31merror[39m: 	Cannot read property 'redirect' of undefined
+2021-10-01T04:48:44.334Z [31merror[39m: 	Can't use updatedAt with String.
+2021-10-01T05:09:29.684Z [31merror[39m: 	data is not defined
+2021-10-01T05:12:43.561Z [31merror[39m: 	data is not defined
+2021-10-01T05:17:12.386Z [31merror[39m: 	data is not defined
+2021-10-01T05:24:44.933Z [31merror[39m: 	data is not defined
+2021-10-02T02:38:39.890Z [31merror[39m: 	data is not defined
+2021-10-02T02:40:09.884Z [31merror[39m: 	data is not defined
+2021-10-02T02:44:46.743Z [31merror[39m: 	data is not defined
+2021-10-02T02:47:27.469Z [31merror[39m: 	data is not defined
+2022-07-24T19:14:19.345Z [31merror[39m: 	Error al iniciar servidor Error: listen EACCES: permission denied [8080]
+2022-07-30T19:29:54.636Z [31merror[39m: 	Cannot read properties of undefined (reading 'redirect')

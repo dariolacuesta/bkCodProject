@@ -1,0 +1,36 @@
+<nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+	<div class="container-fluid">
+		<a class="navbar-brand" style="font-family: Readex Pro" href="#"
+			>Backend Project</a
+		>
+		<button
+			class="navbar-toggler"
+			type="button"
+			data-bs-toggle="collapse"
+			data-bs-target="#navbarNavAltMarkup"
+			aria-controls="navbarNavAltMarkup"
+			aria-expanded="false"
+			aria-label="Toggle navigation"
+		>
+			<span class="navbar-toggler-icon"></span>
+		</button>
+		<div
+			class="d-flex"
+			id="navbarNavAltMarkup"
+			style="font-family: 'Readex Pro"
+		>
+			<div class="navbar-nav">
+				<a class="nav-link active" aria-current="page" href="/">Inicio</a>
+
+				<% if (user==null) { %>
+				<a class="nav-link" href="/user/login">Ingresar</a>
+				<a class="nav-link" href="/user/register">Registrarse</a>
+				<% } else { %>
+				<a class="nav-link" href="/user/main">Productos</a>
+				<a class="nav-link" href="/chat">Chat</a>
+				<a class="nav-link" href="/info">Info</a>
+				<% } %>
+			</div>
+		</div>
+	</div>
+</nav>

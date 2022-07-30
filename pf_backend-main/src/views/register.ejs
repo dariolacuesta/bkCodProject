@@ -1,0 +1,89 @@
+<%- include ('./layouts/header') -%> <%- include ('./layouts/navbar') -%>
+
+<div class="container mt-5">
+	<% if (error !='' ) { %>
+	<div class="alert alert-danger alert-dismissible fade show" role="alert">
+		<strong>Error</strong>
+		<%= error %>
+		<button type="button" class="close" data-dismiss="alert" aria-label="Close">
+			<span aria-hidden="true">&times;</span>
+		</button>
+	</div>
+	<% } %>
+	<h3 style="text-align: center; color: blue" class="display-3">
+		REGISTRO DE USUARIO
+	</h3>
+	<form method="POST" action="/user/register" autocomplete="off">
+		<div class="input-group mb-3" style="display: flex; flex-direction: column">
+			<input
+				type="email"
+				class="form-control"
+				id="email"
+				placeholder="Email"
+				aria-label="Recipient's email"
+				aria-describedby="button-addon2"
+				name="email"
+				required
+				style="margin-top: 15px; width: 100%; font-family: 'Readex Pro'"
+			/>
+			<input
+				type="password"
+				class="form-control"
+				id="password"
+				placeholder="Contraseña"
+				aria-label="Recipient's username"
+				aria-describedby="button-addon2"
+				name="password"
+				required
+				style="margin-top: 15px; width: 100%; font-family: 'Readex Pro'"
+			/>
+			<input
+				type="text"
+				class="form-control"
+				id="username"
+				placeholder="Nombre de Usuario"
+				aria-label="Recipient's username"
+				aria-describedby="button-addon2"
+				name="username"
+				required
+				style="margin-top: 15px; width: 100%; font-family: 'Readex Pro'"
+			/>
+			<input
+				type="number"
+				class="form-control"
+				id="phone"
+				placeholder="Teléfono"
+				aria-label="Recipient's phone"
+				aria-describedby="button-addon2"
+				name="phone"
+				required
+				style="margin-top: 15px; width: 100%; font-family: 'Readex Pro'"
+			/>
+
+			<div class="input-group-append">
+				<button
+					class="btn btn-outline-secondary"
+					type="submit"
+					id="button-addon2"
+					style="margin-top: 15px ;font-family: 'Readex Pro"
+				>
+					Registrarse
+				</button>
+			</div>
+		</div>
+	</form>
+</div>
+<div class="container">
+	<div class="input-group-append">
+		<a href="/user/login">
+			<button
+				class="btn btn-outline-secondary"
+				type="submit"
+				id="button-addon2"
+			>
+				Volver
+			</button>
+		</a>
+	</div>
+</div>
+<%- include ('./layouts/footer') -%>

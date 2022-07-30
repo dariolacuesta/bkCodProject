@@ -1,0 +1,67 @@
+<%- include ('./layouts/header') -%> <%- include ('./layouts/navbar') -%>
+
+<div class="container mt-5">
+	<% if (error !='' ) { %>
+
+	<div class="alert alert-danger alert-dismissible fade show" role="alert">
+		<strong>Error:</strong>
+		<%= error %>
+		<button type="button" class="close" data-dismiss="alert" aria-label="Close">
+			<span aria-hidden="true">&times;</span>
+		</button>
+	</div>
+	<% } %>
+	<h3 style="text-align: center; color: blue" class="display-3">Login</h3>
+	<form method="POST" action="/user/login" autocomplete="off">
+		<div class="input-group mb-3" style="display: flex; flex-direction: column">
+			<input
+				type="email"
+				class="form-control"
+				id="email"
+				placeholder="Email"
+				aria-label="Recipient's email"
+				aria-describedby="button-addon2"
+				name="email"
+				required
+				style="margin-top: 15px; width: 100%; font-family: 'Readex Pro'"
+			/>
+			<input
+				type="password"
+				class="form-control"
+				id="password"
+				placeholder="Contraseña"
+				aria-label="Recipient's password"
+				aria-describedby="button-addon2"
+				name="password"
+				required
+				style="margin-top: 15px; width: 100%  ;font-family: 'Readex Pro"
+			/>
+
+			<div
+				class="input-group-append"
+				style="margin-top: 15px ;font-family: 'Readex Pro"
+			>
+				<button class="btn btn-outline-dark" type="submit" id="button-addon2">
+					Iniciar Sesión
+				</button>
+			</div>
+		</div>
+	</form>
+</div>
+
+<div class="container mt-4">
+	<div class="input-group-append">
+		<a href="/user/register">
+			<button
+				class="btn btn-outline-dark"
+				type="submit"
+				id="button-addon2"
+				style="font-family: 'Readex Pro"
+			>
+				Registrarse
+			</button>
+		</a>
+	</div>
+</div>
+
+<%- include ('./layouts/footer') -%>

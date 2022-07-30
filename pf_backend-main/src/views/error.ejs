@@ -1,0 +1,14 @@
+<%- include ('./layouts/header') -%>
+    <%- include ('./layouts/navbar') -%>
+        <div class="container mt-5">
+            <div class="row">
+                <div class="col-12 text-center">
+                    <h6>Se Ha Producido un Error</h6>
+                </div>
+                <%if (error) { %>
+                    <p> <%= error %> </p>
+
+                <%} %>
+            </div>
+        </div>
+        <%- include ('./layouts/footer') -%>

@@ -1,0 +1,72 @@
+<%- include ('./layouts/header') -%> <%- include ('./layouts/navbar') -%> <% if
+(success !='' ) { %>
+<div class="container mt-4">
+	<div class="alert alert-success alert-dismissible fade show" role="alert">
+		<strong>Exito:</strong>
+		<%= success %>
+		<button type="button" class="close" data-dismiss="alert" aria-label="Close">
+			<span aria-hidden="true">&times;</span>
+		</button>
+	</div>
+</div>
+<% } %> <% if (user) { %>
+<div class="container my-5 py-3 bg-secondary text-white text-center">
+	<h4>
+		<strong>Bienvenida/o</strong>
+		<%= user.username %>
+	</h4>
+
+	<a href="/user/logout">
+		<button class="btn-sm btn-warning" type="submit">Logout</button>
+	</a>
+</div>
+<% } %>
+<!-- Inicio Chat -->
+<div class="container bg-secondary text-white p-2" id="divChat">
+	<h1 style="text-align: center; color: blue" class="display-3">Chat</h1>
+	<div style="text-align: center"></div>
+	<div class="container-fluid" style="display: flex">
+		<div style="width: 100%">
+			<div class="col-12">
+				<div id="ventana" style="width: 100%; font-family: 'Readex Pro'">
+					<div id="pantallaOld"></div>
+					<hr />
+					<div id="pantalla"></div>
+				</div>
+			</div>
+			<div class="col-6">
+				<h6 class="mt-4">Uso del Chat</h6>
+				<% if (user) { %>
+				<input
+					type="text"
+					id="userEmail"
+					placeholder="E-mail"
+					class="mt-1"
+					value="email"
+				/>
+				<% } %>
+				<input
+					type="text"
+					id="messageChat"
+					placeholder="Mensaje "
+					class="mt-1"
+					required
+				/>
+				<button type="submit" id="btnChat" class="btn btn-primary">
+					Enviar
+				</button>
+
+				<br />
+				<br />
+			</div>
+			<a href="/chat/propio">
+				<button class="btn btn-primary">Mensajes Propios</button>
+			</a>
+		</div>
+	</div>
+</div>
+
+<!-- Fin Chat -->
+<script src="/js/chat.js"></script>
+
+<%- include ('./layouts/footer') -%>

@@ -1,0 +1,38 @@
+{
+  "type": "commonjs",
+  "name": "clase41",
+  "version": "1.0.0",
+  "main": "server.js",
+  "license": "ISC",
+  "scripts": {
+    "nm": "nodemon ./src/server.js development",
+    "dev": "node ./src/server.js development",
+    "prod": "node ./src/server.js production",
+    "start": "node ./src/server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "connect-flash": "^0.1.1",
+    "cookie-parser": "^1.4.5",
+    "dotenv": "^10.0.0",
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "express-handlebars": "^5.3.0",
+    "express-session": "^1.17.2",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.12.11",
+    "morgan": "^1.10.0",
+    "nodemailer": "^6.6.5",
+    "nodemon": "^2.0.12",
+    "passport": "^0.5.0",
+    "passport-jwt": "^4.0.0",
+    "passport-local": "^1.0.0",
+    "pug": "^3.0.2",
+    "socket.io": "^4.0.1",
+    "socketio": "^1.0.0",
+    "winston": "^3.3.3"
+  },
+  "devDependencies": {}
+}
